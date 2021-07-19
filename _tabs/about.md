@@ -4,6 +4,4 @@ icon: fas fa-info
 order: 4
 ---
 
-
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
-> Hi! My name is Jenny!
+> Hi! My name is Fujia Ren, but call me Jenny! I'm a currently a software engineer at Amazon, who loves gaming and puzzles! I graduated from Cornell University in 2020 and 2021 respectively with both a BS and MEng in Computer Science, which helped to launch my passion of computers. I'm particularly passionate about math and algorithms, and will frequently update this website with my personal projects/findings. Happy reading!
