@@ -17,7 +17,7 @@ timezone: Asia/Shanghai
 # --------------------------
 title: Fujia Ren                         # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Developer, Gamer, Artist   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -43,8 +43,8 @@ social:
     - https://twitter.com/username      # change to your twitter homepage
     - https://github.com/username       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/fujia-ren
+    - https://www.linkedin.com/in/fujia-ren
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
