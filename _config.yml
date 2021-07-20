@@ -11,7 +11,7 @@ baseurl: ''
 lang: en-US
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: America/Los_Angeles
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
@@ -31,7 +31,7 @@ github:
   username: Fujia-Ren            # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: apheliea            # change to your twitter username
 
 social:
   # Change to your full name.
