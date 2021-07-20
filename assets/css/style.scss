@@ -1,14 +1,9 @@
-// --- 
-// --- 
-$tab-count: {
-    {
-        site.tabs | size | plus: 1
-    }
-}
-
-;
+---
+---
+$tab-count: {{ site.tabs | size | plus: 1 }};
 @import "{{ site.theme }}";
-// add your style below
+
+
 @media (prefers-color-scheme: dark) {
     html[mode=light] {
         --sidebar-bg: linear-gradient(180deg, #5500C1, rgba(255, 255, 255, 0) 99.12%), #0AF0FF;
