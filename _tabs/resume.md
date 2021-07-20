@@ -15,16 +15,16 @@ _______
 
 ________
 
-_Spring 2021_			
+_Spring 2021_		
+
 **Cornell University**, College of Engineering, Ithaca, NY
 
 ​Masters of Engineering in Computer Science
 
-
-<br>
 <br>
 
-_Fall 2020_               
+_Fall 2020_      
+
 **Cornell University**, College of Engineering, Ithaca, NY
 
 ​Bachelor of Science in Computer Science
@@ -36,6 +36,7 @@ _____
 _________
 
 _Summer 2020_
+
 **Klaviyo**, Boston, MA
 
 _Software Engineering Intern_						
