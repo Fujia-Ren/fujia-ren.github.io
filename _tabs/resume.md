@@ -3,8 +3,6 @@ title: Resume
 icon: fas fa-book
 order: 2
 ---
-Fujia Ren (Jenny)
-============
 
 -------------------     ----------------------------
 2015 2nd Ave                       fr233@cornell.edu
