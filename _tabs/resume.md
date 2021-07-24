@@ -19,7 +19,7 @@ ________
 
 **Cornell University**, College of Engineering, Ithaca, NY
 
-​Masters of Engineering in Computer Science
+​Master of Engineering in Computer Science
 
 <br>
 
@@ -49,7 +49,7 @@ _Software Engineering Intern_
 
 (_Summer 2019_)
 
-**Moog, Inc.**, Boston, MA
+**Moog, Inc.**, East Aurora, NY
 
 _Software Engineering Intern_						
 
@@ -71,3 +71,23 @@ _______
 - Implemented an ML classifier with Pytorch to decide endings for multi-line stories using BERT.
 - Designed a learning algorithm in Python, incorporating multiple outputs into final answer.
 - Achieved a final test set accuracy rate of 81.28%
+
+<br>
+
+(_Spring 2019_)
+
+**Gomoku AI**, Cornell University
+
+- Implemented an AI in OCaml, designing an algorithm to memoize and search for winning patterns.
+- Designed multiple difficulty levels with several custom heuristics.
+- Integrated alpha beta pruning to increase the efficiency and speed of the AI
+
+<br>
+
+(_Summer 2018_)
+
+**Weather and Scheduler App**, Independent
+
+- Implemented an app using Swift, integrating Cocoapods such as SwiftyJSON and Alamofire.
+- Integrated data from an open weather API into a UICollectionView to display an editable schedule.
+
